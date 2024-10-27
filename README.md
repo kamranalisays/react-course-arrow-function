@@ -7,7 +7,7 @@
    
       1.3 - The initial code of the project is created by the following command :
 
-            npx create-react-app hello-world 
+            npx create-react-app arrow-function
 
 
 2) Tools & Technologies
@@ -26,25 +26,25 @@
 
     2.2 - After cloning the repo you have to install node modules.
 
-         Step-1 Open the terminal and change the directory to hello-world
+         Step-1 Open the terminal and change the directory to arrow-function
 
          Step-2 Install the node modules by the following command
 
                  npm install
 
-               For Example :   E:\temporary\hello-world> npm install
+               For Example :   E:\temporary\arrow-function> npm install
 
 
 
 4) How to run the project
 
-   4.1 Open the terminal and change the directory to hello-world
+   4.1 Open the terminal and change the directory to arrow-function
 
    4.2 Run the command follwowing command
 
          npm start
 
-         For Example :   E:\temporary\hello-world>npm start
+         For Example :   E:\temporary\arrow-function>npm start
    
 
 5) Tech Stack Version
